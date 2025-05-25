@@ -1,18 +1,19 @@
-# 影片下載器
+🎉 First release of the Video Downloader tool!
 
-超簡單的影片下載工具，只要下載「影音下載器.exe」，雙擊即可使用！
+📥 Download `影音下載器.exe` below and start downloading videos from YouTube, Twitch, and other platforms.
 
-## 使用方法
+✨ Features:
+- Download videos from multiple platforms
+- Simple and clean user interface
+- No need to install — just run the `.exe`
 
-1. 下載最新版本的 `影音下載器.exe`。
-2. 雙擊執行，依照畫面指示輸入影片網址即可開始下載。
+📦 How to use:
+1. Download the `.exe` file from the "Assets" section below.
+2. Double-click to run.
+3. Paste the video URL and start downloading!
 
-## 注意事項
+⚠ Note:
+- Please do not rename the `.exe` file after downloading.
+- If you encounter any issues, feel free to open an [Issue](https://github.com/QQderLP/Video-Downloader/issues) on GitHub.
 
-- 因為內建了 ffmpeg，檔案比較大（約 80MB），請耐心等待下載。
-- 請確保電腦有連網。
-- 如有問題，歡迎提出 Issue。
-
----
-
-謝謝使用！
+Thank you for using this tool 💖
